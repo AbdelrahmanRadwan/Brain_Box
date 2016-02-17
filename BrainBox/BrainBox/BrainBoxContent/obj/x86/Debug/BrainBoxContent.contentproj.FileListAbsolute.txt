@@ -1,0 +1,4 @@
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\BrainBox\BrainBox\BrainBoxContent\obj\x86\Debug\BrainBoxContent.contentprojResolveAssemblyReference.cache
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\BrainBox\BrainBoxContent\obj\x86\Debug\BrainBoxContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\BrainBox\BrainBox\BrainBoxContent\obj\x86\Debug\BrainBoxContent.contentprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBoxContent\obj\x86\Debug\BrainBoxContent.contentprojResolveAssemblyReference.cache

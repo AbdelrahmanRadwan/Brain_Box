@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BrainBOX.jpg</Source>
+      <Name>BrainBOX</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\BrainBOX.xnb</Output>
+      <Time>2015-05-05T18:41:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2015-05-05T19:46:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mus_theme.mp3</Source>
+      <Name>mus_theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\mus_theme.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\mus_theme.wma</Extra>
+      <Time>2015-05-05T19:13:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnhover1.mp3</Source>
+      <Name>btnhover1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\btnhover1.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\btnhover1.wma</Extra>
+      <Time>2015-05-05T19:59:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>btnhover.wav</Source>
+      <Name>btnhover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\btnhover.xnb</Output>
+      <Time>2015-05-05T19:30:14+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{FE2F82E8-2222-4460-9EEF-E8064CECDD1A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBoxContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\BrainBox\BrainBox\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-06T21:44:57.4988841+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

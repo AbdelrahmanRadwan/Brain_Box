@@ -1,0 +1,74 @@
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\DudeFull.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Portals.exe
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Portals.pdb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\obj\x86\Debug\Portals.csprojResolveAssemblyReference.cache
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\obj\x86\Debug\Portals.exe
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\obj\x86\Debug\Portals.pdb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\DudeFull2.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\bg.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Play.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Credits.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Quit.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal1.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal2.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\Menu.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\Menu.wma
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\btn.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\HeroAnimation.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\plpl.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\pnpn.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\lklk.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Pointer\silver.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\test.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\uouo.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\toty.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal3.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal4.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\blockA.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\blockB.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Levels\Texture 1.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\hero.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\arrow.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Levels\Texture-1.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Levels.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Level-1.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Level-2.xnb
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Level-3.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\DudeFull.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\DudeFull2.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\bg.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Play.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Credits.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Quit.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal2.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\HeroAnimation.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\plpl.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\pnpn.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\lklk.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Pointer\silver.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\uouo.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\toty.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal4.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\blockA.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\blockB.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Levels\Texture 1.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\arrow.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal1.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal3.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\hero.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\test.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Levels\Texture-1.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Levels.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Level-1.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Level-2.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\Level-3.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\Menu.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\btn.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\Menu.wma
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Portals.exe
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\bin\x86\Debug\Portals.pdb
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\obj\x86\Debug\Portals.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\obj\x86\Debug\Portals.exe
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\Portals\obj\x86\Debug\Portals.pdb

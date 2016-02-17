@@ -1,0 +1,139 @@
+C:\Users\leenovoz510\Desktop\Chess\Chess\Chess\bin\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\Chess\Chess\Chess\bin\x86\Debug\Chess.pdb
+C:\Users\leenovoz510\Desktop\Chess\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\Chess\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\Chess\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\Chess\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.pdb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateBG.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateCri.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateMode.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateOptions.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateQuit.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\cursor.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\board\Checkmate.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackBishop.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKing.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKnight.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackPawn.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackQueen.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteBishop.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKing.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKnight.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhitePawn.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteQueen.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\muteIcon.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\PlayIcon.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\ButtonHover.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.wma
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.wma
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackRock.xnb
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteRock.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateBG.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateCri.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateMode.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateOptions.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateQuit.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\cursor.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\board\Checkmate.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackBishop.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKing.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKnight.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackPawn.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackQueen.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackRock.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteBishop.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKing.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKnight.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhitePawn.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteQueen.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteRock.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\muteIcon.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\PlayIcon.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\Null.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\ButtonHover.xnb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.wma
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.wma
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.pdb
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateBG.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateCri.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateMode.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateOptions.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateQuit.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\cursor.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\board\Checkmate.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackBishop.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKing.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKnight.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackPawn.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackQueen.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackRock.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteBishop.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKing.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKnight.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhitePawn.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteQueen.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteRock.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\muteIcon.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\PlayIcon.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\Null.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\ButtonHover.xnb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.wma
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.wma
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.exe
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.pdb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\CheckMateBG.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateBG.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateCri.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateMode.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateOptions.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateQuit.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\cursor.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\board\Checkmate.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackBishop.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKing.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKnight.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackPawn.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackQueen.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackRock.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteBishop.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKing.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKnight.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhitePawn.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteQueen.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteRock.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\muteIcon.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\PlayIcon.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\Null.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\CheckMateBG.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\ButtonHover.xnb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.wma
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.wma
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Chess.pdb
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\Chess.pdb

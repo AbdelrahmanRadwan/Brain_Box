@@ -1,0 +1,2 @@
+F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\PortalsContent\obj\x86\Debug\PortalsContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\BrainBox\Portals\Portals\PortalsContent\obj\x86\Debug\PortalsContent.contentprojResolveAssemblyReference.cache

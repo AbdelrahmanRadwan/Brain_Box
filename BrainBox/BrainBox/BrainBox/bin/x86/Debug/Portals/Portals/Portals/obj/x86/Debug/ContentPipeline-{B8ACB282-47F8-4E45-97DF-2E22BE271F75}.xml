@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>DudeFull.png</Source>
+      <Name>DudeFull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\DudeFull.xnb</Output>
+      <Time>2015-05-05T23:53:37.9685114+02:00</Time>
+    </Item>
+    <Item>
+      <Source>DudeFull2.png</Source>
+      <Name>DudeFull2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\DudeFull2.xnb</Output>
+      <Time>2015-05-06T00:27:34.6123629+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\InnerMenu\bg.png</Source>
+      <Name>Menu\InnerMenu\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\bg.xnb</Output>
+      <Time>2015-05-06T20:09:14.0733671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\InnerMenu\Play.png</Source>
+      <Name>Menu\InnerMenu\Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Play.xnb</Output>
+      <Time>2015-05-06T20:51:26.595152+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\InnerMenu\Credits.png</Source>
+      <Name>Menu\InnerMenu\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Credits.xnb</Output>
+      <Time>2015-05-06T20:54:50.1191061+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\InnerMenu\Quit.png</Source>
+      <Name>Menu\InnerMenu\Quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Menu\InnerMenu\Quit.xnb</Output>
+      <Time>2015-05-06T20:58:09.8710357+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Portals\Portal1.png</Source>
+      <Name>InnerGame\Portals\Portal1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal1.xnb</Output>
+      <Time>2015-05-08T19:01:50.4496+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Portals\Portal2.png</Source>
+      <Name>InnerGame\Portals\Portal2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal2.xnb</Output>
+      <Time>2015-05-06T23:31:16.9427762+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Sound\Menu.mp3</Source>
+      <Name>InnerGame\Sound\Menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\Menu.xnb</Output>
+      <Extra>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\Menu.wma</Extra>
+      <Time>2015-05-07T00:58:33.373123+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Sound\btn.wav</Source>
+      <Name>InnerGame\Sound\btn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Sound\btn.xnb</Output>
+      <Time>2015-05-07T09:08:17.5641476+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Textures\HeroAnimation.png</Source>
+      <Name>InnerGame\Textures\HeroAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\HeroAnimation.xnb</Output>
+      <Time>2015-05-07T09:32:41.5810381+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Textures\plpl.png</Source>
+      <Name>InnerGame\Textures\plpl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\plpl.xnb</Output>
+      <Time>2015-05-07T09:57:10.8306195+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Textures\pnpn.png</Source>
+      <Name>InnerGame\Textures\pnpn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\pnpn.xnb</Output>
+      <Time>2015-05-07T10:44:52.02493+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Textures\lklk.png</Source>
+      <Name>InnerGame\Textures\lklk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Textures\lklk.xnb</Output>
+      <Time>2015-05-08T16:22:31.7281894+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Pointer\silver.png</Source>
+      <Name>InnerGame\Pointer\silver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Pointer\silver.xnb</Output>
+      <Time>2015-05-07T14:23:34.992483+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test.png</Source>
+      <Name>test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2015-05-08T22:04:35.4212296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>uouo.png</Source>
+      <Name>uouo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\uouo.xnb</Output>
+      <Time>2015-05-07T17:10:35.8984548+02:00</Time>
+    </Item>
+    <Item>
+      <Source>toty.png</Source>
+      <Name>toty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\toty.xnb</Output>
+      <Time>2015-05-07T17:25:12.95408+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Portals\Portal3.png</Source>
+      <Name>InnerGame\Portals\Portal3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal3.xnb</Output>
+      <Time>2015-05-08T19:11:34.2030026+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Portals\Portal4.png</Source>
+      <Name>InnerGame\Portals\Portal4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Portals\Portal4.xnb</Output>
+      <Time>2015-05-07T18:50:28.6380358+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blockA.bmp</Source>
+      <Name>blockA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\blockA.xnb</Output>
+      <Time>2015-05-08T11:23:46.3964932+02:00</Time>
+    </Item>
+    <Item>
+      <Source>blockB.bmp</Source>
+      <Name>blockB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\blockB.xnb</Output>
+      <Time>2015-05-08T11:23:46.3964932+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Levels\Texture 1.jpg</Source>
+      <Name>InnerGame\Levels\Texture 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Levels\Texture 1.xnb</Output>
+      <Time>2015-05-08T14:01:26.4358812+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hero.png</Source>
+      <Name>hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\hero.xnb</Output>
+      <Time>2015-05-08T20:33:47.9257448+02:00</Time>
+    </Item>
+    <Item>
+      <Source>arrow.png</Source>
+      <Name>arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\arrow.xnb</Output>
+      <Time>2015-05-08T17:41:23.5271401+02:00</Time>
+    </Item>
+    <Item>
+      <Source>InnerGame\Levels\Texture-1.png</Source>
+      <Name>InnerGame\Levels\Texture-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\InnerGame\Levels\Texture-1.xnb</Output>
+      <Time>2015-05-08T22:15:48.456717+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels.png</Source>
+      <Name>Levels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Levels.xnb</Output>
+      <Time>2015-05-09T12:30:08.1359172+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level-1.png</Source>
+      <Name>Level-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Level-1.xnb</Output>
+      <Time>2015-05-09T12:25:09.0723952+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level-2.png</Source>
+      <Name>Level-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Level-2.xnb</Output>
+      <Time>2015-05-09T12:27:04.9734987+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Level-3.png</Source>
+      <Name>Level-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\Level-3.xnb</Output>
+      <Time>2015-05-09T12:28:02.5347645+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B8ACB282-47F8-4E45-97DF-2E22BE271F75}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\PortalsContent\</RootDirectory>
+      <LoggerRootDirectory>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\FCIS - ASU\Materials\Year 2 - Term 2\Object Oriented Programming\Lectures\Lecture 3\Portals\Portals\Portals\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-05T22:02:46.0239468+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

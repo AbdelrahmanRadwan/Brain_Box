@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Portals.GameLevel" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQAAAIAAAAAAwAAACAAAIQAAIAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Abstracts\GameLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.InteractiveObject" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAIAwAgCAAAAAAAAAAAAAAAAAIAAAAEAAQ=</HashCode>
+      <FileName>Classes\Abstracts\InteractiveObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Menu" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAkAAAEAAAwAAAAAAAAAAAAAIAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Abstracts\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Portal" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAABAAwAAAAAAACIAAAAAAgAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Abstracts\Portal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Animation" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBoAAAAAAAAwAAAAAAAEAAAAAIBAAEAAAAAAAAAAE=</HashCode>
+      <FileName>Classes\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.CustomPointer" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAACAAAgAgAAAAAAAAAAAAAACAAAgAAAAAAAQ=</HashCode>
+      <FileName>Classes\CustomPointer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Game1" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAwAAAACAAAAQAAAEAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Hero" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRAgAAAACAAgAhCAAAAAgBEAAIBAAMAEYAIAAEAAU=</HashCode>
+      <FileName>Classes\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.InnerMenu" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAUAAUAAAAAEA6AggACAAACAAAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>Classes\InnerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.InPortal" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAJEAAAAAAAwAAAAAAAAAAAAAAAAAABABAAAAAAAQ=</HashCode>
+      <FileName>Classes\InPortal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Level1" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQAAAMAAAAAAwAAAAAIAAAEAAAgAIABBAAAAUAAAAU=</HashCode>
+      <FileName>Classes\Level1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.InputManager" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAQAIAAAAAEAAAEAKCAEAAAIAAAgAA=</HashCode>
+      <FileName>Classes\Managers\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.SoundManager" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACQAUAAAAAAAAAAAAAAAAgAAAAAAAAAY=</HashCode>
+      <FileName>Classes\Managers\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Obstacle" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAgAAAAABAAAAAAEAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Classes\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.OutPortal" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAJEAAAAAAAwAAAAAAAAAAAAAAAAAABABAAAAAAAQ=</HashCode>
+      <FileName>Classes\OutPortal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Program" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Classes\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.ShotingArm" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ShootingArm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Portals.Target" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAAAAAAAAAAgAAAAAAQAAAAAA=</HashCode>
+      <FileName>Classes\Target.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Portals.GameState" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Portals.PortalState" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Portals.ObstacleType" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Portals.PortalShape" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

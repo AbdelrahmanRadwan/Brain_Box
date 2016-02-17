@@ -1,0 +1,134 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using Microsoft.Xna.Framework.Content;
+using Microsoft.Xna.Framework.GamerServices;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Media;
+
+namespace Portals
+{
+    class ChooseLevel : Menu
+    {
+        Texture2D Level1;
+        Vector2 Level1Pos;
+        Color Level1Color = Color.White;
+
+        Texture2D Level2;
+        Vector2 Level2Pos;
+        Color Level2Color = Color.White;
+
+        Texture2D Level3;
+        Vector2 Level3Pos;
+        Color Level3Color = Color.White;
+
+        public GameState GetState()
+        {
+            return CurrentSate;
+        }
+
+        public ChooseLevel() { }
+        public override void Initialize()
+        {
+            CurrentSate = GameState.MainMenu;
+            MenuBGPosistion = new Vector2(0);
+            Level1Pos = new Vector2(37, 173);
+            Level2Pos = new Vector2(37, 300);
+            Level3Pos = new Vector2(37, 427);
+        }
+
+        public override void LoadContent(ContentManager content)
+        {
+            MenuBG = content.Load<Texture2D>("Levels");
+            Level1 = content.Load<Texture2D>("Level-1");
+            Level2 = content.Load<Texture2D>("Level-2");
+            Level3 = content.Load<Texture2D>("Level-3");
+        }
+
+        double timer;
+        double pressdelay = 100f;
+        int PointCounter = 1;
+        public override void Update(GameTime gametime)
+        {
+            timer += (float)gametime.ElapsedGameTime.TotalMilliseconds;
+            if (CurrentSate == GameState.MainMenu)
+            {
+                if (timer >= pressdelay)
+                {   //For every pressdelay in milliseconds , the menu will let the user to choose a choise
+                    timer = 0;
+                    if (InputManager.IsDownPressed())
+                    {
+                        PointCounter++;
+                        SoundManager.Run(SoundManager.Player.BtnHover);
+                        // Moving in a cycle - Presenting the menu buttons (looping the choises) 
+                        if (PointCounter == 4) PointCounter = 1;
+                    }
+                    if (InputManager.IsUpPressed())
+                    {
+                        PointCounter--;
+                        SoundManager.Run(SoundManager.Player.BtnHover);
+                        // Moving in a cycle - Presenting the menu buttons (looping the choises)
+                        if (PointCounter == 0) PointCounter = 3;
+                    }
+                }
+                switch (PointCounter)
+                {
+                    // Identifying the Current choosen button
+                    case 1:
+                        Level1Color = Color.SteelBlue;
+                        Level2Color = Color.White;
+                        Level3Color = Color.White;
+                        break;
+                    case 2:
+                        Level1Color = Color.White;
+                        Level2Color = Color.SteelBlue;
+                        Level3Color = Color.White;
+                        break;
+                    case 3:
+                        Level1Color = Color.White;
+                        Level2Color = Color.White;
+                        Level3Color = Color.SteelBlue;
+                        break;
+                }
+            }
+
+            if (InputManager.IsEnterPressed())
+            {
+                switch (PointCounter)
+                {
+                    // Directing the user to the prefered game state - According to his choise 
+                    case 1:
+                        {
+                            CurrentSate = GameState.ChooseLevel;
+                            SoundManager.Run(SoundManager.Player.BtnHover);
+                            break;
+                        }
+                    case 2:
+                        {
+                            CurrentSate = GameState.Credits;
+                            SoundManager.Run(SoundManager.Player.BtnHover);
+                            break;
+                        }
+                    case 3:
+                        {
+                            CurrentSate = GameState.Quit;
+                            SoundManager.Run(SoundManager.Player.BtnHover);
+                            break;
+                        }
+                }
+            }
+        }
+
+        public override void Draw(SpriteBatch Spritebatch)
+        {
+            Spritebatch.Draw(MenuBG, MenuBGPosistion, Color.White);
+            Spritebatch.Draw(Level1, Level1Pos, Level1Color);
+            Spritebatch.Draw(Level2, Level2Pos, Level2Color);
+            Spritebatch.Draw(Level3, Level3Pos, Level3Color);
+        }
+    }
+}

@@ -1,0 +1,6 @@
+C:\Users\leenovoz510\Desktop\Chess\Chess\ChessContent\obj\x86\Debug\ChessContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\OOP\Chess-hamdy\Chess\ChessContent\obj\x86\Debug\ChessContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\Chess-hamdy\Chess\ChessContent\obj\x86\Debug\ChessContent.contentprojResolveAssemblyReference.cache
+C:\Users\AbdelrahmanOthman\Desktop\OOP Project\BrainBox\Chess-hamdy\Chess\ChessContent\obj\x86\Debug\ChessContent.contentprojResolveAssemblyReference.cache
+C:\Users\leenovoz510\Desktop\BrainBox\Chess-hamdy\Chess\ChessContent\obj\x86\Debug\ChessContent.contentprojResolveAssemblyReference.cache
+E:\Study & Learn\Programming\TOP\My solution & projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\ChessContent\obj\x86\Debug\ChessContent.contentprojResolveAssemblyReference.cache

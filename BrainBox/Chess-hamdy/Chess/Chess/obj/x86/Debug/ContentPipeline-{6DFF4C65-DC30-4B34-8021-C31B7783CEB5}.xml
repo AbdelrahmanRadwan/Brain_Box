@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Resources\Menue\CheckMateBG.jpg</Source>
+      <Name>Resources\Menue\CheckMateBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateBG.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Menue\CheckMateCri.jpg</Source>
+      <Name>Resources\Menue\CheckMateCri</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateCri.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Menue\CheckMateMode.jpg</Source>
+      <Name>Resources\Menue\CheckMateMode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateMode.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Menue\CheckMateOptions.jpg</Source>
+      <Name>Resources\Menue\CheckMateOptions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateOptions.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Menue\CheckMateQuit.jpg</Source>
+      <Name>Resources\Menue\CheckMateQuit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\CheckMateQuit.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Menue\cursor.png</Source>
+      <Name>Resources\Menue\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\Menue\cursor.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\board\Checkmate.jpg</Source>
+      <Name>Resources\pictures\board\Checkmate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\board\Checkmate.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\BlackBishop.png</Source>
+      <Name>Resources\pictures\pieces\BlackBishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackBishop.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\BlackKing.png</Source>
+      <Name>Resources\pictures\pieces\BlackKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKing.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\BlackKnight.png</Source>
+      <Name>Resources\pictures\pieces\BlackKnight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackKnight.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\BlackPawn.png</Source>
+      <Name>Resources\pictures\pieces\BlackPawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackPawn.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\BlackQueen.png</Source>
+      <Name>Resources\pictures\pieces\BlackQueen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackQueen.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\BlackRock.png</Source>
+      <Name>Resources\pictures\pieces\BlackRock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\BlackRock.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\WhiteBishop.png</Source>
+      <Name>Resources\pictures\pieces\WhiteBishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteBishop.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\WhiteKing.png</Source>
+      <Name>Resources\pictures\pieces\WhiteKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKing.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\WhiteKnight.png</Source>
+      <Name>Resources\pictures\pieces\WhiteKnight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteKnight.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\WhitePawn.png</Source>
+      <Name>Resources\pictures\pieces\WhitePawn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhitePawn.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\WhiteQueen.png</Source>
+      <Name>Resources\pictures\pieces\WhiteQueen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteQueen.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\WhiteRock.png</Source>
+      <Name>Resources\pictures\pieces\WhiteRock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\WhiteRock.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sounds\SoundManagerAssets\muteIcon.png</Source>
+      <Name>Resources\sounds\SoundManagerAssets\muteIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\muteIcon.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sounds\SoundManagerAssets\PlayIcon.png</Source>
+      <Name>Resources\sounds\SoundManagerAssets\PlayIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\PlayIcon.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\pictures\pieces\Null.png</Source>
+      <Name>Resources\pictures\pieces\Null</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\pictures\pieces\Null.xnb</Output>
+      <Time>2015-05-07T16:42:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>CheckMateBG.jpg</Source>
+      <Name>CheckMateBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\CheckMateBG.xnb</Output>
+      <Time>2015-05-09T13:45:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sounds\GameEntry.mp3</Source>
+      <Name>Resources\sounds\GameEntry</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameEntry.wma</Extra>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sounds\GameMenuSong.mp3</Source>
+      <Name>Resources\sounds\GameMenuSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.xnb</Output>
+      <Extra>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\GameMenuSong.wma</Extra>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\sounds\SoundManagerAssets\ButtonHover.wav</Source>
+      <Name>Resources\sounds\SoundManagerAssets\ButtonHover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\Resources\sounds\SoundManagerAssets\ButtonHover.xnb</Output>
+      <Time>2015-05-06T09:10:20+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6DFF4C65-DC30-4B34-8021-C31B7783CEB5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\ChessContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Study &amp; Learn\Programming\TOP\My solution &amp; projects\projects\OOP\OOP\BrainBox\Chess-hamdy\Chess\Chess\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-06T21:44:57.4988841+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
